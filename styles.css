@@ -57,7 +57,7 @@ hr{
   background-image: url("sec1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  height: 100vh;
+  min-height: 50vh;
   color: white;
 }
 a, a:hover{
