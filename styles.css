@@ -1,0 +1,123 @@
+.navbar-brand{
+  font-family: 'Pacifico', cursive;
+  font-size: 25px;
+}
+.brand{
+  color:#fa26a0;
+}
+::-webkit-scrollbar {
+      width: 3px;
+    }
+.nav-item{
+  white-space: nowrap;
+   display: inline-block;
+
+}
+nav,h1{
+  color: #fa26a0;
+}
+.section-two div{
+  width: 50%;
+  margin: auto;
+}
+.section-two h3{
+  color: blue;
+
+}
+.s2 h3, .s2 h4{
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+.card{
+  padding: 30px;
+}
+section{
+  min-height: 70vh;
+  margin-top: 30px;
+  margin-bottom:30px;
+}
+hr{
+  background-color: #ff427f;
+  color: #ff427f;
+  height: 2px;
+  width: 10vw;
+}
+.col h3{
+  text-decoration: underline;
+}
+.section-three{
+  background-image: url("se.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-weight: bold;
+  color: #ff427f;
+  padding: 30px;
+}
+.section-one{
+  background-image: url("sec1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  color: white;
+}
+a, a:hover{
+  color: white;
+}
+input{
+  height: 40px;
+  width: 30vw;
+}
+.price{
+  background-image: url("priceb.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-left: 20px;
+  margin: auto;
+}
+.section-six{
+  background-color: #f96d80;
+  color: white;
+  padding: 30px;
+}
+.row{
+  margin: auto;
+  width: 70%;
+  text-align: center;
+
+}
+body{
+  text-align: center;
+  margin-top: 70px;
+  background-color: #e0dede;
+}
+.section-two div{
+  padding: 50px;
+}
+.nav{
+  float: right;
+  margin-right: 0;
+  list-style:none;
+  display: flex;
+
+}
+li{
+  font-size: 20px;
+  list-style-type: none;
+}
+.icon-bar{
+   color: black;
+   background-color: black;
+}
+li{
+  margin-right: 20px;
+  margin-top: 20px;
+}
+.nav-item:hover{
+
+  font-size: 21px;
+  font-weight: bold;
+}
+.section-one{
+  margin-top: 70px;
+  padding: 30px;
+}
